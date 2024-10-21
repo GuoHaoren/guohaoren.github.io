@@ -22,11 +22,11 @@ repository               : "GuoHaoren/guohaoren.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Guo Haoren"
+  name             : "Guo Haoren (郭昊仁)"
   pronouns         : # example: "she/her"  
   bio              : "理性的思考阻隔了人与宇宙的亲近"
   location         : "Singapore"
-  employer         : 
+  employer         : "National University of Singapore
   URI              : "https://guohaoren.github.io"
   email            : "haorenguo_06@u.nus.edu" 
 
