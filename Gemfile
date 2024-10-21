@@ -4,7 +4,7 @@ group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
-  gem "minimal-mistakes-jekyll"
+  gem 'minimal-mistakes-jekyll'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
 end
