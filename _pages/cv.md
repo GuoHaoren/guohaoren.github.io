@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can also view my resume in [PDF](https://github.com/GuoHaoren/guohaoren.github.io/blob/4e27efb755f15968fa3e8af1ef55e92b9c128dd8/assets/GuoHaoren_cv_v2.pdf)
+You can also view my resume in [PDF](assets/GuoHaoren_cv_v2.pdf)
 
 Education
 ======
