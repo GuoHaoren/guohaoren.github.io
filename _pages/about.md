@@ -16,7 +16,8 @@ Research Interests
 ======
 * machine learning
 * neural network and deep learning
-* time series prediction, predictive maintenance
+* time series prediction
+* predictive maintenance
 * domain adaptation
 * self-supervised learning
 * large language model
