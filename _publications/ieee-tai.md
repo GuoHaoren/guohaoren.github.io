@@ -2,6 +2,7 @@
 title: "Remaining Useful Life Prediction via Frequency Emphasizing Mix-Up and Masked Reconstruction"
 collection: publications
 category: manuscripts
+authors: 'Haoren Guo, Haiyue Zhu, Jiahui Wang, Vadakkepat Prahlad, Weng Khuen Ho, Tong Heng Lee'
 permalink: /publication/2023-TAI
 excerpt: 'This paper addresses the challenge of predicting Remaining Useful Lifetime (RUL) in machinery within Industry 4.0 by proposing a framework that improves data utilization through frequency-domain analysis and semi-supervised learning. The Frequency Emphasizing Mix-Up Module (FEMM) enhances feature extraction, while the Masked Autoencoder Reconstruction Auxiliary Learning (MARAL) utilizes unlabeled data from unrestricted domains. Evaluations on the C-MAPSS dataset show the model outperforms others, achieving significant accuracy improvements, particularly with minimal labeled data. The results demonstrate a notable reduction in RMSE and overall prediction error.'
 date: 2024-05-03
