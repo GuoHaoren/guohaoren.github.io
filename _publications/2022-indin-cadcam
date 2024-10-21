@@ -13,7 +13,6 @@ paperurl: 'https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/99
 
 Citation:
 ```
-
 @inproceedings{wang2022cam,
   title={Cam/cad point cloud part segmentation via few-shot learning},
   author={Wang, Jiahui and Zhu, Haiyue and Guo, Haoren and Al Mamun, Abdullah and Vadakkepat, Prahlad and Lee, Tong Heng},
@@ -22,5 +21,4 @@ Citation:
   year={2022},
   organization={IEEE}
 }
-
 ```
