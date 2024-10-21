@@ -6,6 +6,7 @@ permalink: /publication/2022-indin-rul
 excerpt: '
 Predicting the Remaining Useful Lifetime (RUL) of machines is crucial for preventing tool wear and breakdown in Industry 4.0, but fully-supervised models struggle due to limited labeled data from broken machines. To address this, the authors propose a masked self-supervised learning method that uses unlabeled data for RUL prediction, showing superior performance on the C-MAPSS dataset compared to fully-supervised approaches.'
 date: 2022-07-25
+venue: 'INDIN 22'
 paperurl: 'https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/9976158'
 ---
 
