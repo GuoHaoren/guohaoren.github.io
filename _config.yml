@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Guo Haoren's Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Guo Haoren"
 description              : &description "personal description"
 url                      : https://guohaoren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "GuoHaoren/guohaoren.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Guo Haoren"
+  name             : "Guo Haoren (郭昊仁)"
   pronouns         : # example: "she/her"  
   bio              : "理性的思考阻隔了人与宇宙的亲近"
   location         : "Singapore"
