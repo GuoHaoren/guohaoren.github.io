@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    URL: .../assets/GuoHaoren_cv_v2.pdf
+    URL: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
