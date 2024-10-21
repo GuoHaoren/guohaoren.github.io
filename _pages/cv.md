@@ -85,5 +85,5 @@ Interests
 * Tennis
   
 <body>
-<a href='https://clustrmaps.com/site/1c1tp'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=5xSauehoZhlU6-ARhPRw7egGUFlDKeSfTUWmgqMAKzs&co=b0c995&ct=3daeea'/></a>
+<a href='https://clustrmaps.com/site/1c1tp'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=5xSauehoZhlU6-ARhPRw7egGUFlDKeSfTUWmgqMAKzs&co=b0c995&ct=3daeea'/></a>
 </body>  
