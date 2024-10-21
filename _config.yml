@@ -6,6 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+minimal_mistakes_skin: "mint"
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Guo Haoren's Home Page"
@@ -15,8 +16,7 @@ description              : &description "personal description"
 url                      : https://guohaoren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuoHaoren/guohaoren.github.io"
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+ # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
