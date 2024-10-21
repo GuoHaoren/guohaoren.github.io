@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-iecon-rul
 excerpt: 'This paper proposes a non-transformer model, Compressed Temporal and Compressed Spatial (CTCS) Attention, for predicting Remaining Useful Lifetime (RUL), addressing concerns with transformer-based models such as high computational complexity and ineffective handling of low data. The CTCS model efficiently captures temporal and spatial information with pre- and post-positional encodings, while an Augmentation Fusion Module (AFM) improves understanding of data invariances. Evaluated on the C-MAPSS dataset, the proposed model outperforms transformer-based methods in accuracy while reducing computational cost by up to 32 times fewer FLOPs.'
-date: 2023-05-29
+date: 2023-10-16
 venue: 'IECON'
 paperurl: 'https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/10312336'
 ---
