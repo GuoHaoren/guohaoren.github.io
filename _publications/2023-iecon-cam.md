@@ -2,6 +2,7 @@
 title: "Few-Shot Point Cloud Semantic Segmentation for CAM/CAD via Feature Enhancement and Efficient Dual Attention"
 collection: publications
 category: conferences
+authors: 'Jiahui Wang, Haiyue Zhu, Haoren Guo, Abdullah Al Mamun, Cheng Xiang, Tong Heng Lee'
 permalink: /publication/2023-iecon-cam
 excerpt: 'This paper presents a few-shot learning approach for 3D semantic segmentation in CAM/CAD workflows, aimed at improving the segmentation of novel classes in scenarios with high mixture but low volume. The method introduces Sequential Dual Attention (SDA) to capture both channel and spatial features, along with a non-parametric feature enhancement block to improve class recognition in the feature space. Compared to other few-shot models, the proposed approach achieves superior performance across multiple few-shot segmentation scenarios on two datasets, demonstrating significant improvements over baseline methods.'
 date: 2023-10-16
