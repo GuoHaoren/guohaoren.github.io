@@ -80,7 +80,7 @@ Interests
 * Soprano Bel Canto (10 years+)
 * Piano (10 years+)
 * Table Tennis (represents my undergraduates CCA to join inter hall games)
-* Musical Composition (performed original songs with full band in some NUS concerts)
+* [Musical Composition](https://music.163.com/#/artist?id=31164112) (performed original songs with full band in some NUS concerts)
 * Guitar
 * Tennis
 
