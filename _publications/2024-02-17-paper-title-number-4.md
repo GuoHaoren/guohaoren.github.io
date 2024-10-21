@@ -1,13 +1,24 @@
 ---
-title: "Paper Title Number 4"
+title: "Few-shot point cloud semantic segmentation via contrastive self-supervision and multi-resolution attention"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2023-icra
+excerpt: 'This paper introduces a few-shot point cloud semantic segmentation approach optimized for real-world applications. Unlike existing methods that rely on fully-supervised pretraining with large annotated datasets, which leads to biased feature extraction, the proposed method employs a contrastive self-supervision framework for pretraining. This approach uses class-agnostic contrastive supervision and a learnable augmentor to eliminate feature bias, while a multi-resolution attention module and center-concentrated multi-prototype enhance feature extraction and mitigate intra-class sparsity. Experiments demonstrate state-of-the-art performance, with a case study showcasing its effectiveness in practical CAM/CAD segmentation.'
+date: 2023-05-29
+venue: 'ICRA'
+paperurl: 'https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/10160429'
 ---
+This paper presents an effective few-shot point cloud semantic segmentation approach for real-world applications. Existing few-shot segmentation methods on point cloud heavily rely on the fully-supervised pretrain with large annotated datasets, which causes the learned feature extraction bias to those pretrained classes. However, as the purpose of few-shot learning is to handle unknown/unseen classes, such class-specific feature extraction in pretrain is not ideal to generalize into new classes for few-shot learning. Moreover, point cloud datasets hardly have a large number of classes due to the annotation difficulty. To address these issues, we propose a contrastive self-supervision framework for few-shot learning pretrain, which aims to eliminate the feature extraction bias through class-agnostic contrastive supervision. Specifically, we implement a novel contrastive learning approach with a learnable augmentor for a 3D point cloud to achieve point-wise differentiation, so that to enhance the pretrain with managed overfitting through the self-supervision. Furthermore, we develop a multi-resolution attention module using both the nearest and farthest points to extract the local and global point information more effectively, and a center-concentrated multi-prototype is adopted to mitigate the intra-class sparsity. Comprehensive experiments are conducted to evaluate the proposed approach, which shows our approach achieves state-of-the-art performance. Moreover, a case study on practical CAM/CAD segmentation is presented to demonstrate the effectiveness of our approach for real-world applications.
+[paper](https://ieeexplore-ieee-org.libproxy1.nus.edu.sg/abstract/document/10160429)
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Citation
+```
+@inproceedings{wang2023few,
+  title={Few-shot point cloud semantic segmentation via contrastive self-supervision and multi-resolution attention},
+  author={Wang, Jiahui and Zhu, Haiyue and Guo, Haoren and Al Mamun, Abdullah and Xiang, Cheng and Lee, Tong Heng},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={2811--2817},
+  year={2023},
+  organization={IEEE}
+}
+```
