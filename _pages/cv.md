@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can also view my resume in [PDF](GuoHaoren_cv_v2.pdf)
+<object data="{{ GuoHaoren_cv_v2.pdf }}" width="1000" height="1000" type='application/pdf'/>
 
 Education
 ======
