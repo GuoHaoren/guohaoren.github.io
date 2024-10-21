@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, National University of Singapore, Aug 2021 - May2025 (expected)
+* B.Eng. in Electrical Engineering, National University of Singapore, Aug 2017 - May 2021
+* Student Exchange Program in Electrical Engineering, University of Wisconsin-Madison, Jan 2020 – May 2020
+* Summer School in Hanyang University, Korea, July 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2019 - Dec 2019: Autonomous Vehicle Team Research Intern
+  * Micron Technology, Singapore
+  * Implemented autonomous ground buggy for human mobility at Micron's Singapore factory.
+  * Developed a buggy behavior planner using the Robot Operating System (ROS) and C++.
+  * Applied deep learning techniques for computer vision, focusing on obstacle detection visualization.
+  * Enhanced the robustness of the buggy's electrical system to optimize buggy’s overall performance and safety.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Pytorch
+* TensorFlow
+* C
+* Java
+* Pandas
+* ROS
+* R
+* SQL
+* MATLAB
+* SIMULINK
+* LaTex
+* Linux
+* SwiftUI
+* Issac sim
 
 Publications
 ======
@@ -47,11 +51,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -59,6 +59,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Award
 ======
-* Currently signed in to 43 different slack teams
+* Science and Technology Full Scholarship Program (Singapore Ministry of Education), Aug 2016 - May 2021
+* NUS Research Scholarship (Industrial ring-fenced with Hexagon), Aug 2021 - May 2025
