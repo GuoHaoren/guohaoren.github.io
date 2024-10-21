@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 You can also view my resume in [PDF](../assets/GuoHaoren_cv_v2.pdf)
 
 Education
