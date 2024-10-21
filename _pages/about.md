@@ -29,7 +29,7 @@ Research Interests
 
   <li> <b>[Oct, 2023]</b>. <a href="https://guohaoren.github.io/publication/2023-iecon-rul">"Lightweight Compressed Temporal and Compressed Spatial Attention with Augmentation Fusion in Remaining Useful Life Prediction"</a> and  <a href="https://guohaoren.github.io/publication/2023-iecon-cam">"Few-Shot Point Cloud Semantic Segmentation for CAM/CAD via Feature Enhancement and Efficient Dual Attention"</a> are accepted by IECON-2023! </li>
 
-  <li> <b>[Jun, 2024]</b>. I passed my oral qualification exam. </li>
+  <li> <b>[Jun, 2023]</b>. I passed my oral qualification exam. </li>
     
   <li> <b>[Jan, 2023]</b>. <a href="https://guohaoren.github.io/publication/2023-icra">"Few-shot point cloud semantic segmentation via contrastive self-supervision and multi-resolution attention"</a> is accepted by ICRA-2023! </li>
   
