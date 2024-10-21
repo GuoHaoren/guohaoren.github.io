@@ -2,7 +2,7 @@
 title: "Masked Self-Supervision for Remaining Useful Lifetime Prediction in Machine Tools"
 collection: publications
 category: conferences
-permalink: /publication/2022-indin-rul
+permalink: /publications/2022-indin-rul
 authors: 'Haoren Guo, Haiyue Zhu, Jiahui Wang, Prahlad Vadakkepat, Weng Khuen Ho, Tong Heng Lee'
 excerpt: '
 Predicting the Remaining Useful Lifetime (RUL) of machines is crucial for preventing tool wear and breakdown in Industry 4.0, but fully-supervised models struggle due to limited labeled data from broken machines. To address this, the authors propose a masked self-supervised learning method that uses unlabeled data for RUL prediction, showing superior performance on the C-MAPSS dataset compared to fully-supervised approaches.'
