@@ -2,6 +2,7 @@
 title: "CAM/CAD Point Cloud Part Segmentation via Few-Shot Learning"
 collection: publications
 category: conferences
+authors: "Jiahui Wang, Haiyue Zhu, Haoren Guo, Abdullah Al Mamun, Prahlad Vadakkepat, Tong Heng Lee"
 permalink: /publication/2022-indin-cadcam
 excerpt: '3D part segmentation plays a critical role in improving the efficiency and reducing defects in CAM/CAD manufacturing workflows, particularly for CNC machinery. Traditional segmentation methods rely on fully-supervised learning, which requires large annotated datasets and struggles to generalize to new segmentation tasks. To address these limitations, the authors propose a few-shot learning approach that improves generalization and flexibility by using fewer samples. Their method, inspired by the attMPTI network, incorporates a multi-prototype approach with self-attention, along with transform net and center loss block, to better capture 3D features while reducing storage space and enhancing processing efficiency.'
 date: 2022-07-15
