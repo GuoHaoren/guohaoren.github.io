@@ -37,8 +37,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
-  
 Teaching
 ======
 * National University of Singapore, Graduate Teaching Assistant
