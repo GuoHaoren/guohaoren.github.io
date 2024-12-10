@@ -25,8 +25,7 @@ Research Interests
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Dec, 2024]</b>. <a href="https://guohaoren.github.io/publications/2025-aaai">"Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Frequency
-Graph Discovery and Language-Guided Adversary Alignment"</a> is accepted by the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)! </li>
+  <li> <b>[Dec, 2024]</b>. <a href="https://guohaoren.github.io/publications/2025-aaai">"Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Frequency Graph Discovery and Language-Guided Adversary Alignment"</a> is accepted by the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)! </li>
   
   <li> <b>[May, 2024]</b>. <a href="https://guohaoren.github.io/publications/2023-TAI">"Remaining Useful Life Prediction via Frequency Emphasizing Mix-Up and Masked Reconstruction"</a> is accepted by IEEE Transaction on Artificial Intelligence (TAI)! </li>
 
