@@ -313,6 +313,8 @@ whitelist:
   - jekyll-sitemap
   - jemoji
 
+sitemap:
+  path: sitemap.xml
 
 # Archives
 #  Type
