@@ -3,7 +3,7 @@ title: "Enhancing Multivariate Time-Series Domain Adaptation via Contrastive Fre
 collection: publications
 category: conferences
 authors: 'Haoren Guo, Haiyue Zhu, Jiahui Wang, Vadakkepat Prahlad, Weng Khuen Ho, Tong Heng Lee'
-permalink: /publications/2025-aaai
+permalink: /publications/ConFGD
 excerpt: 'Unsupervised domain adaptation (UDA) minimizes reliance on labeled data by aligning features between a labeled source domain and an unlabeled target domain, making it effective for multivariate time series (MTS) prediction. Existing MTS UDA methods often overlook inter-series dependencies and frequency-domain insights. To address this, the proposed Frequency Graph Discovery (FGD) module uncovers shared frequency information, while the Frequency-Contextual Contrastive Learning (FCCL) framework aligns frequency-contextual representations for label-invariant prediction. Additionally, the Language-guided Adversary Alignment (LAA) module leverages large language models (LLMs) to enhance alignment using text-encoded labeled embeddings. This approach achieves state-of-the-art results on public MTS datasets.'
 date: 2024-12-08
 venue: 'The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)'
