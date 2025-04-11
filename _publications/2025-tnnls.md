@@ -1,7 +1,7 @@
 ---
 title: "SDSimPoint: Shallow–Deep Similarity Learning for Few-Shot Point Cloud Semantic Segmentation"
 collection: publications
-category: journal
+category: manuscripts
 authors: "Jiahui Wang, Haiyue Zhu, Haoren Guo, Abdullah Al Mamun, Cheng Xiang, Clarence W de Silva, Tong Heng Lee"
 permalink: /publications/2025-tnnls
 excerpt: 'Three-dimensional point cloud semantic segmentation is a core task in computer vision. While few-shot methods address limited-data scenarios better than fully supervised approaches, they often struggle to capture class-specific features due to class-agnostic pretraining. To overcome this, we propose SDSimPoint, a shallow–deep similarity learning network that models both shallow (e.g., geometry, color) and deep (e.g., context, semantics) similarities between support and query samples. We further introduce BEAM (Beyond-Episode Attention Module), which expands attention beyond a single episode using memory units, enhancing similarity modeling. Additionally, our learnable distance metric adapts to complex data distributions. SDSimPoint consistently outperforms baselines across multiple datasets in few-shot point cloud segmentation.'
