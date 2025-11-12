@@ -10,7 +10,7 @@ redirect_from:
 # <i class="fa fa-cog fa-fw"></i> About me #
 Hi! I am Haoren, a final year Ph.D candidate in Electrical and Computer Engineering at the National University of Singapore advised by [Professor Vadakkepat Prahlad](https://scholar.google.com/citations?user=Mq5ihGYAAAAJ&hl=en) and Professor Ho Weng Khuen. I am very fortunate to work closely with Prof. Lee Tong Heng and Prof. Abdullah Al Mamun in NUS, and Dr. Haiyue Zhu from SIMTech, A*Star.
 
-I obtained my bachelor's degree in Electrical Engineering from National University of Singapore, with a distinction in May 2021. I have joined Huawei Singapore Research Center as Architectural Computing Algorithm Engineer from May, 2025.
+I obtained my bachelor's degree in Electrical Engineering from National University of Singapore, with a distinction in May 2021. I have joined the Huawei Singapore Research Center as an Architectural Computing Algorithm Engineer since May 2025.
 
 Email: haorenguo_06@u.nus.edu
 
@@ -22,6 +22,7 @@ Research Interests
 * predictive maintenance
 * domain adaptation
 * self-supervised learning
+* efficient AI
 * large language model
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
